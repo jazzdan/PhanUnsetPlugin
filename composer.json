@@ -1,11 +1,12 @@
 {
-    "name": "jazzdan/PhanUnsetPlugin",
+    "name": "jazzdan/phan-unset-plugin",
     "require": {
-        "etsy/phan": ">=0.4"
-    }
-    "autoload": {
-        "psr-0" : {
-            "PhanUnsetPlugin" : "src"
+        "etsy/phan": "^0.4.0"
+    },
+    "authors": [
+        {
+            "name": "Dan Miller",
+            "email": "dmiller@etsy.com"
         }
-    }
+    ]
 }
