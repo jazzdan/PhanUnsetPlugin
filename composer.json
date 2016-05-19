@@ -1,0 +1,11 @@
+{
+    "name": "jazzdan/PhanUnsetPlugin",
+    "require": {
+        "etsy/phan": ">=0.4"
+    }
+    "autoload": {
+        "psr-0" : {
+            "PhanUnsetPlugin" : "src"
+        }
+    }
+}
