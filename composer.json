@@ -1,7 +1,7 @@
 {
     "name": "jazzdan/phan-unset-plugin",
     "require": {
-        "etsy/phan": "^0.4.0"
+        "etsy/phan": "dev-master"
     },
     "authors": [
         {
